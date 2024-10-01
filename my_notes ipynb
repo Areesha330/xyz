@@ -1,0 +1,2 @@
+mix=["ali","usman",21,41]
+mix[0]
